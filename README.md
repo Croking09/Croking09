@@ -1,7 +1,7 @@
 <div align="center">
-  <p align="center">
-    <img src="https://github.com/Croking09"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hola!+Soy+Javi.;Desarrollador+Fullstack;Me+gusta+el+Frontend+%3C3" alt="Typing SVG">
-  </p>
+  <a href="https://github.com/Croking09">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hola!+Soy+Javi.;Desarrollador+Fullstack;Me+gusta+el+Frontend+%3C3" alt="Typing SVG">
+  </a>
 </div>
 
 ---
