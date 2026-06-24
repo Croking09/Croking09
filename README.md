@@ -9,7 +9,7 @@
 ## 👨‍💻 Sobre mi
 
 ```typescript
-const Javi = {
+const Javi: Developer = {
   role: "Full Stack Developer",
   focus: ["Web Development", "UI/UX", "Clean Code"],
   languages: ["HTML", "CSS", "TypeScript", "Java"],
