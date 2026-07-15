@@ -26,19 +26,3 @@ const Javi: Developer = {
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,astro,nodejs,java,py,postgres,supabase,firebase,git,github,vscode,figma,jest&perline=10" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Croking09&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Croking09)
-
-</div>
-
-<div align="center">
-  <a href="https://gitfut.com/Croking09">
-    <img height="400" src="https://gitfut.com/Croking09.png" />
-  </a>
-</div>
